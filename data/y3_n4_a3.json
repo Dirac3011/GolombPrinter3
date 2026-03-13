@@ -1,0 +1,10 @@
+{
+  "n": 4,
+  "alpha": 3,
+  "gamma": 3,
+  "count": 1,
+  "time_seconds": 0.0004,
+  "sets": [
+    [0, 1, 2, 3]
+  ]
+}
